@@ -94,11 +94,6 @@ ductal_carcinoma 27 (malignant)
 40× → most errors (lacks cellular detail)
 200× → best performance (good texture + context balance)
 
-
-![Misclassified Samples](results/misclassified_example1.png)
-![Misclassified Samples](results/misclassified_example2.png)
-
-
 ---
 
 ## 7. How To Run
